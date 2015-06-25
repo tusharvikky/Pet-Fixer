@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Mazkara
+        psr4_prefix: Mazkara
+        src_path: app
