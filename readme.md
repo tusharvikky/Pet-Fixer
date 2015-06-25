@@ -1,4 +1,4 @@
-## Hestabit
+## Mazkara
 
 ## Official Documentation
 
@@ -15,4 +15,9 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 user@user.com Password: sentryuser
 admin@admin.com Password: sentryadmin
 ```
-5. 
+
+## Disclaimer
+
+This is an ugly looking app. It just does what it should to do. Nothing Fancy. 
+
+And ya big fan of Open Source, so this is MIT. Pull requests are welcome.
